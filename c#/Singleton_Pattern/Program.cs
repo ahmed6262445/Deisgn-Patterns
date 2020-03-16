@@ -6,7 +6,10 @@ namespace Singleton_Pattern
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Singleton.Instance.Data = 1;
+            Console.WriteLine(Singleton.Instance.Data);
+            Test obj = new Test();
+            obj.DisplaySingleton();
         }
     }
 }
