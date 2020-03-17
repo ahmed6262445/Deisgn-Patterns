@@ -31,7 +31,7 @@ namespace Facade_Pattern
     {
         public string PrepareFood() { return "Cook\n food"; }
         public string CallWaiter() { return "Call Waiter\n"; }
-        public string WashDishes() { return "Wash the dishes\n";s }
+        public string WashDishes() { return "Wash the dishes\n"; }
 
     }
 
