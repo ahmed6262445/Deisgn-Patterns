@@ -1,0 +1,11 @@
+/home/ahmet/Documents/Deisgn-Patterns/c#/Facade_Pattern/bin/Debug/netcoreapp3.1/Facade_Pattern
+/home/ahmet/Documents/Deisgn-Patterns/c#/Facade_Pattern/bin/Debug/netcoreapp3.1/Facade_Pattern.deps.json
+/home/ahmet/Documents/Deisgn-Patterns/c#/Facade_Pattern/bin/Debug/netcoreapp3.1/Facade_Pattern.runtimeconfig.json
+/home/ahmet/Documents/Deisgn-Patterns/c#/Facade_Pattern/bin/Debug/netcoreapp3.1/Facade_Pattern.runtimeconfig.dev.json
+/home/ahmet/Documents/Deisgn-Patterns/c#/Facade_Pattern/bin/Debug/netcoreapp3.1/Facade_Pattern.dll
+/home/ahmet/Documents/Deisgn-Patterns/c#/Facade_Pattern/bin/Debug/netcoreapp3.1/Facade_Pattern.pdb
+/home/ahmet/Documents/Deisgn-Patterns/c#/Facade_Pattern/obj/Debug/netcoreapp3.1/Facade_Pattern.csprojAssemblyReference.cache
+/home/ahmet/Documents/Deisgn-Patterns/c#/Facade_Pattern/obj/Debug/netcoreapp3.1/Facade_Pattern.AssemblyInfoInputs.cache
+/home/ahmet/Documents/Deisgn-Patterns/c#/Facade_Pattern/obj/Debug/netcoreapp3.1/Facade_Pattern.AssemblyInfo.cs
+/home/ahmet/Documents/Deisgn-Patterns/c#/Facade_Pattern/obj/Debug/netcoreapp3.1/Facade_Pattern.dll
+/home/ahmet/Documents/Deisgn-Patterns/c#/Facade_Pattern/obj/Debug/netcoreapp3.1/Facade_Pattern.pdb
