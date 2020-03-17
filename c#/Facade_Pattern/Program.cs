@@ -6,7 +6,9 @@ namespace Facade_Pattern
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Facade facade = new Facade();
+
+            Console.WriteLine(facade.OrderFood());
         }
     }
 }
