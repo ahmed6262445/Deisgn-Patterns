@@ -29,7 +29,7 @@ namespace Facade_Pattern
 
     public class Kitchen
     {
-        public string PrepareFood() { return "Cook\n food"; }
+        public string PrepareFood() { return "Cook food\n"; }
         public string CallWaiter() { return "Call Waiter\n"; }
         public string WashDishes() { return "Wash the dishes\n"; }
 
