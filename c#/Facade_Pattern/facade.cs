@@ -1,6 +1,6 @@
 namespace Facade_Pattern
 {
-    public class facade
+    public class Facade
     {
          private Kitchen kitchen;
          private Waiter waiter;
