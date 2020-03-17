@@ -5,7 +5,7 @@ namespace Facade_Pattern
          private Kitchen kitchen;
          private Waiter waiter;
 
-        public facade() 
+        public Facade() 
         {
             this.kitchen = new Kitchen();
             this.waiter = new Waiter();
