@@ -15,6 +15,14 @@ namespace Factory_Pattern
         }
     }
 
+    public class Sqaure:Shape
+    {
+        public void Draw()
+        {
+            Console.WriteLine("Inside Square::Draw Method\n");
+        }
+    }
+
 
     class Program
     {
