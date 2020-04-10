@@ -1,0 +1,11 @@
+/home/ahmet/Documents/Deisgn-Patterns/c#/Factory_Pattern/bin/Debug/netcoreapp3.1/Factory_Pattern
+/home/ahmet/Documents/Deisgn-Patterns/c#/Factory_Pattern/bin/Debug/netcoreapp3.1/Factory_Pattern.deps.json
+/home/ahmet/Documents/Deisgn-Patterns/c#/Factory_Pattern/bin/Debug/netcoreapp3.1/Factory_Pattern.runtimeconfig.json
+/home/ahmet/Documents/Deisgn-Patterns/c#/Factory_Pattern/bin/Debug/netcoreapp3.1/Factory_Pattern.runtimeconfig.dev.json
+/home/ahmet/Documents/Deisgn-Patterns/c#/Factory_Pattern/bin/Debug/netcoreapp3.1/Factory_Pattern.dll
+/home/ahmet/Documents/Deisgn-Patterns/c#/Factory_Pattern/bin/Debug/netcoreapp3.1/Factory_Pattern.pdb
+/home/ahmet/Documents/Deisgn-Patterns/c#/Factory_Pattern/obj/Debug/netcoreapp3.1/Factory_Pattern.csprojAssemblyReference.cache
+/home/ahmet/Documents/Deisgn-Patterns/c#/Factory_Pattern/obj/Debug/netcoreapp3.1/Factory_Pattern.AssemblyInfoInputs.cache
+/home/ahmet/Documents/Deisgn-Patterns/c#/Factory_Pattern/obj/Debug/netcoreapp3.1/Factory_Pattern.AssemblyInfo.cs
+/home/ahmet/Documents/Deisgn-Patterns/c#/Factory_Pattern/obj/Debug/netcoreapp3.1/Factory_Pattern.dll
+/home/ahmet/Documents/Deisgn-Patterns/c#/Factory_Pattern/obj/Debug/netcoreapp3.1/Factory_Pattern.pdb

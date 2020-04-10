@@ -2,9 +2,9 @@
 
 namespace Factory_Pattern
 {
-    interface Shape
+    public interface Shape
     {
-        public void Draw();
+        void Draw();
     }
 
     public class Circle:Shape
@@ -23,12 +23,45 @@ namespace Factory_Pattern
         }
     }
 
+    public class Rectangle:Shape
+    {
+        public void Draw()
+        {
+            Console.WriteLine("Inside Rectangle::Draw Method\n");
+        }
+    }
 
-    class Program
+    public class ShapeFactory
+    {
+        public Shape GetShape(string shapeType)
+        {
+            shapeType = shapeType.ToUpper();
+            if (shapeType == null)
+                return null;
+
+            if (shapeType == "CIRCLE")
+                return new Circle();
+            else if (shapeType == "SQUARE")
+                return new Sqaure();
+            else if (shapeType == "RECTANGLE")
+                return new Rectangle();
+            return null;
+        }
+    }
+
+    class FactoryPatternDemo
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            ShapeFactory shapeFactory = new ShapeFactory();
+            Shape shape = shapeFactory.GetShape("circle");
+            shape.Draw();
+
+            shape = shapeFactory.GetShape("square");
+            shape.Draw();
+
+            shape = shapeFactory.GetShape("rectangle");
+            shape.Draw();
         }
     }
 }
